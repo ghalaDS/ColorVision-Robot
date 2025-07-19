@@ -30,7 +30,9 @@ This is ideal for:
 ---
 
 ## Example Screenshot
-![Robot Preview](robot-image.jpg)
+
+<img src="robot-image.jpg" alt="Robot Preview" width="400"/>
+-This is a demonstration of the robot recognizing various colors.
 
 ---
 
@@ -51,17 +53,17 @@ robot-image.jpg – Picture of your robot setup (optional)
 
 1. Install OpenCV if not already installed:
    
-bash
+```bash
    pip install opencv-python
-Run the script:
+```
+2. Run the script:
 
-bash
-نسخ
-تحرير
+```bash
 python main.py
-Click anywhere on the webcam window to detect the color at that point.
+```
+3. Click anywhere on the webcam window to detect the color at that point.
 
-Press ESC to close the window.
+4. Press ESC to close the window.
 
 ---
 
