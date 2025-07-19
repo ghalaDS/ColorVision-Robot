@@ -31,8 +31,8 @@ This is ideal for:
 
 ## Example Screenshot
 
-<img src="robot-image.jpg" alt="Robot Preview" width="400"/>
--This is a demonstration of the robot recognizing various colors.
+<img src="robot-image.jpg" alt="Robot Preview" width="600"/>
+- This is a demonstration of the robot recognizing various colors.
 
 ---
 
